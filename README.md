@@ -1,2 +1,3 @@
 # hello-world
-~First personal repository!~
+
+Hello everyone! This is my first personal repository. 
